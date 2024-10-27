@@ -13,7 +13,7 @@ function App() {
     <SafeAreaView style={styles.container}>
       <View style={styles.inputContainer}>
         <TextInput style={styles.input} />
-        <Text>텍스트_지도</Text>
+        <Text>텍스트</Text>
       </View>
       <View style={styles.inputContainer}>
         <TextInput style={styles.input} />
